@@ -1,2 +1,2 @@
 # link:
-- https://rabbi43.github.io/blog-template
+- https://rabbi43.github.io/hackers-store
